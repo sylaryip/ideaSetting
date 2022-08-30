@@ -1,0 +1,35 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="814" />
+    <option name="newTranslationDialogY" value="460" />
+    <histories>
+      <item value="duplicate" />
+      <item value="重复" />
+      <item value="tg" />
+      <item value="细化" />
+      <item value="deplicate&#10;" />
+      <item value="del" />
+      <item value="delp" />
+      <item value="de" />
+      <item value="interceptors" />
+      <item value="interceptros" />
+      <item value="ease Out" />
+      <item value="covariant" />
+      <item value="Edge Insets" />
+      <item value="push" />
+      <item value="phone" />
+      <item value="builder" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="SPANISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1647078105620" />
+  </component>
+</application>
